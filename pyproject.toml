@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "wyklad"
+version = "0.1.0"
+description = ""
+authors = ["Aleksander Smywinski-Pohl <apohllo@o2.pl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab-execute-time = "^3.2.0"
+jupyterlab-rise = "^0.42.0"
+spacy = "^3.8.2"
+pandas = "^2.2.3"
+tokviz = "^0.1"
+tiktoken = "^0.8.0"
+transformers = "^4.45.2"
+morfeusz2 = "^1.99.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

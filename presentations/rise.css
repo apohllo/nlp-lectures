@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+.rise-enabled .jp-RenderedHTMLCommon h1,
+.rise-enabled .jp-RenderedHTMLCommon h2,
+.rise-enabled .jp-RenderedHTMLCommon h3,
+.rise-enabled .jp-RenderedHTMLCommon h4,
+.rise-enabled .jp-RenderedHTMLCommon h5 {
+  font-family: "Ubuntu";
+  font-weight: 500;
+}
+
+.rise-enabled .jp-RenderedHTMLCommon p,
+.rise-enabled .jp-RenderedHTMLCommon li {
+  font-family: "Ubuntu";
+  font-weight: 400;
+}
+
+.rise-enabled .cm-editor {
+    font-size: 1.6rem;
+}
+
+.rise-enabled .jp-OutputArea pre {
+    font-size: 1.6rem;
+}
+
+.rise-enabled .jp-OutputArea-output {
+    font-size: 1.6rem;
+}
+
+.present h1, .present h2, .present h3, .present h4, .present h5, .present h6 {
+    color: #22a66d;
+    line-height: 2em;
+}
+
+.reveal small {
+    font-size: 1rem;
+}
+
+.center {
+    margin-top: 1rem;
+}
+
+.reveal table th, .reveal table td {
+    font-size: 1.6em;
+}
+
+.execute-time.execute-time-contrast-high {
+    font-size: 0.25em;
+}
